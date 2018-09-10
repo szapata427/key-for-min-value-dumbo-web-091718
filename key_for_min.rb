@@ -3,16 +3,16 @@
 
 def key_for_min_value(name_hash)
   
-  if name_hash.length == 0
-    return nil
-  end
+#   if name_hash.length == 0
+#     return nil
+#   end
   
-  i = 0
-  name_hash.each do |key, value|
+#   i = 0
+#   name_hash.each do |key, value|
     
-    if value > i
+#     if value > i
       
     
-  end
+#   end
 
-end
+# end
